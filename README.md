@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Jahswill
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning fullstack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Jahswill-web-dev/Jahswill-web-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Jahswill Full stack developer with over 4 years experience
+I love buildin and scaling SAAS products
+.
