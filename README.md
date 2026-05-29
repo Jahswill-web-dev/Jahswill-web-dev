@@ -87,9 +87,15 @@ That means I care about:
 
 ## GitHub Snapshot
 
-![Jahswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahswill-web-dev&show_icons=true&hide_border=true&theme=transparent)
+Most of my repositories follow the same pattern I care about in product work: clear interfaces, practical architecture, and features that solve real problems.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahswill-web-dev&layout=compact&hide_border=true&theme=transparent)
+You will usually find me building around:
+
+- AI product workflows
+- Full-stack SaaS foundations
+- Next.js and React interfaces
+- Laravel, Node.js, and API-driven systems
+- Clean UI, useful automation, and maintainable code
 
 ---
 
