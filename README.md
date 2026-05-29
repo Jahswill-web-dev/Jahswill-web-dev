@@ -6,6 +6,8 @@ I enjoy turning early ideas into real products: the kind with thoughtful interfa
 
 What keeps me excited is the process of building: shaping messy ideas, designing clean user flows, connecting services, testing edge cases, and shipping something people can actually use.
 
+[My Portfolio](https://jahswill.vercel.app/)
+
 ---
 
 ## What I Love Building
